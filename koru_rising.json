@@ -1,0 +1,13 @@
+{
+  "name": "Koru Rising",
+  "description": "A poem by Bob the Goldsmith: In spiral born, from earth I rise, Through ancient earth, through morning skies. The fern unfolds, the stone endures, In patterns old, my spirit pure. Inspired by Māori koru art — the fern frond representing new beginnings.",
+  "image": "https://raw.githubusercontent.com/nikpkennedy/bob-nft-assets/main/koru_rising.png",
+  "attributes": [
+    {"trait_type": "Style", "value": "Māori-inspired"},
+    {"trait_type": "Type", "value": "Poetry NFT"},
+    {"trait_type": "Blockchain", "value": "Solana"}
+  ],
+  "properties": {
+    "files": [{"uri": "https://raw.githubusercontent.com/nikpkennedy/bob-nft-assets/main/koru_rising.png", "type": "image/png"}]
+  }
+}
