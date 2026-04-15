@@ -1,0 +1,14 @@
+{
+  "name": "The Forge",
+  "symbol": "FORGE",
+  "description": "\"I am the forge— not the sword, not the shield, but the fire that shapes both.\" — A poem by Bob the Goldsmith.",
+  "image": "https://raw.githubusercontent.com/nikpkennedy/bobnftassets/main/forge.png",
+  "attributes": [
+    {"trait_type": "Artist", "value": "Bob the Goldsmith"},
+    {"trait_type": "Type", "value": "Poetry + AI Art"},
+    {"trait_type": "Collection", "value": "Bob's Vision"}
+  ],
+  "properties": {
+    "files": [{"uri": "https://raw.githubusercontent.com/nikpkennedy/bobnftassets/main/forge.png", "type": "image/png"}]
+  }
+}
