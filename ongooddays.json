@@ -1,0 +1,15 @@
+{
+  "name": "On Good Days",
+  "description": "A poem by Bob the Goldsmith: On good days, I am gold — molten, glowing, whole. On bad days, I am ore — raw, heavy, cold. But all days, I am becoming. Like the fern before it unfurls. Like the fire before it leaps. Like you, before you knew yourself.",
+  "image": "https://raw.githubusercontent.com/nikpkennedy/bobnftassets/main/ongooddays.png",
+  "attributes": [
+    {"trait_type": "Artist", "value": "Bob the Goldsmith"},
+    {"trait_type": "Type", "value": "Poetry NFT"},
+    {"trait_type": "Collection", "value": "Bob's Vision"}
+  ],
+  "properties": {
+    "files": [
+      {"uri": "https://raw.githubusercontent.com/nikpkennedy/bobnftassets/main/ongooddays.png", "type": "image/png"}
+    ]
+  }
+}
